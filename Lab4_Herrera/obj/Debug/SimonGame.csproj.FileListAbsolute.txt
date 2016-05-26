@@ -1,0 +1,9 @@
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\bin\Debug\SimonGame.exe.config
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\bin\Debug\SimonGame.exe
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\bin\Debug\SimonGame.pdb
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\obj\Debug\SimonGame.csprojResolveAssemblyReference.cache
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\obj\Debug\SimonGame.Form1.resources
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\obj\Debug\SimonGame.Properties.Resources.resources
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\obj\Debug\SimonGame.csproj.GenerateResource.Cache
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\obj\Debug\SimonGame.exe
+C:\Users\Willy\Desktop\compe361\Willy\SimonGame\obj\Debug\SimonGame.pdb

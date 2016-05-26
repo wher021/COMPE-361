@@ -1,0 +1,68 @@
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\bin\Debug\Nim.exe
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\bin\Debug\Nim.pdb
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.csprojResolveAssemblyReference.cache
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\instructions.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\MainWindow.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\instructions.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\App.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim_MarkupCompile.cache
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.g.resources
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.Properties.Resources.resources
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.csproj.GenerateResource.Cache
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.exe
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_Willy Revised\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.pdb
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.exe
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.pdb
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\bin\Debug\Nim.exe
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\bin\Debug\Nim.pdb
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.csprojResolveAssemblyReference.cache
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\instructions.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\MainWindow.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\instructions.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\App.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim_MarkupCompile.cache
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.g.resources
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.Properties.Resources.resources
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.csproj.GenerateResource.Cache
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\ColorChooser.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\ColorChooser.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Score.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday3\Lab8_WillyDay2\Nim\obj\x86\Debug\Score.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.exe
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.pdb
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\bin\Debug\Nim.exe
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\bin\Debug\Nim.pdb
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.csprojResolveAssemblyReference.cache
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\ColorChooser.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\instructions.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\MainWindow.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Score.baml
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\ColorChooser.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\instructions.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Score.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\App.g.cs
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim_MarkupCompile.cache
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.g.resources
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.Properties.Resources.resources
+C:\Users\Willy\Desktop\finallab\Lab8_Willyday4\Lab8_WillyDay2\Nim\obj\x86\Debug\Nim.csproj.GenerateResource.Cache
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Nim.exe
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Nim.pdb
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\bin\Debug\Nim.exe
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\bin\Debug\Nim.pdb
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Nim.csprojResolveAssemblyReference.cache
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\ColorChooser.baml
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\instructions.baml
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\MainWindow.baml
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Score.baml
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\ColorChooser.g.cs
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\instructions.g.cs
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Score.g.cs
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\App.g.cs
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Nim_MarkupCompile.cache
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Nim.g.resources
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Nim.Properties.Resources.resources
+C:\Users\Willy\Desktop\compe361\Willy\Lab8_HerreraFINAL\Nim\obj\x86\Debug\Nim.csproj.GenerateResource.Cache

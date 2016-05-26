@@ -1,0 +1,4 @@
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Willy\Desktop\compe361\Willy\tmpp\Lab6_Herrera (2)\Lab6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Willy\Desktop\compe361\Willy\tmpp\Lab6_Herrera (2)\Lab6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

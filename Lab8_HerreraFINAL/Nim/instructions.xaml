@@ -1,0 +1,11 @@
+﻿<Window x:Class="Nim.instructions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Instructions" Height="348" Width="423">
+    <Viewbox>
+        <Grid>
+
+        <TextBlock Height="300" HorizontalAlignment="Center" Margin="5" Name="textBlock2" VerticalAlignment="Center" TextWrapping="Wrap" Width="380" ><Run Text="At start you are given a sequence of tokens and its up to you if you want to play with the given sequence or if you wish to generate a different sequence by filling in the form and press generate. You may choose who starts first, either you or the computer. After each game, a scoreboard will show up that contains the current scores. You may choose to proceed playing the current game or you can choose to reset the score by choosing New Game."/><LineBreak/><Run Text="At any time you may choose a different color for the tokens, the selector and the background. "/><LineBreak/><Run Text="Good Luck!"/></TextBlock>
+    </Grid>
+    </Viewbox>
+</Window>

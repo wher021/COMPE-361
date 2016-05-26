@@ -1,0 +1,85 @@
+﻿<Window x:Class="WpfApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" SizeChanged="Window_SizeChanged_2">
+    
+    <Grid Background="#FFA8F596">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition />          
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="243*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="259*"/>
+        </Grid.ColumnDefinitions>
+        <ToolBarTray Grid.Row="0" >
+            <ToolBar >
+                <Menu>
+                    <MenuItem Header="Menu" IsTabStop="False">
+                        <MenuItem Header="Instructions" Click="MenuItem_Click_1" IsTabStop="False"></MenuItem>
+                    </MenuItem>
+                </Menu>
+            </ToolBar>
+        </ToolBarTray>
+        <GroupBox Grid.Row="1" Header="Chaining/Result Box" HorizontalAlignment="Stretch" Margin="5" VerticalAlignment="Stretch" Height="auto" Width="auto" Grid.ColumnSpan="2">
+            <Grid x:Name="GroupGrid" HorizontalAlignment="Stretch" Height="auto" VerticalAlignment="Stretch" Width="auto">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="17*"/>
+                    <ColumnDefinition Width="42*"/>
+                    <ColumnDefinition Width="59*"/>
+                    <ColumnDefinition Width="59*"/>
+                    <ColumnDefinition Width="59*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBox x:Name="chainBox" Grid.Column="0"  Grid.ColumnSpan="4" HorizontalAlignment="Stretch" Height="auto" Margin="5,5,5,4.7" Grid.Row="0" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="auto" Focusable="False" IsReadOnly="True" IsTabStop="False"/>
+                <TextBox x:Name="sumBox" Grid.ColumnSpan="4" HorizontalAlignment="Stretch" Height="auto" Margin="5,5.3,5,4.7" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="auto" IsTabStop="False" IsReadOnly="True" Focusable="False"/>
+            
+                <Label x:Name="label1" Content="Real" Grid.Row="1" Grid.Column="0" VerticalAlignment="Stretch" VerticalContentAlignment="Bottom" HorizontalContentAlignment="Stretch" Grid.ColumnSpan="2" Margin="0,25.3,0,0.7" Grid.RowSpan="2"/>
+                <Label x:Name="label2" Content="Imag" HorizontalAlignment="Stretch" Grid.Row="1" Grid.Column="3" VerticalAlignment="Bottom" Margin="0,25.3,0,0.7" Grid.RowSpan="2"/>
+                <TextBox x:Name="realBox" Grid.ColumnSpan="3" HorizontalAlignment="Stretch"  Height="auto" Margin="5,4.3,5,5.4" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="auto" GotFocus="realBox_GotFocus" KeyboardNavigation.TabIndex="0" KeyDown="myKeyDown_KeyDown"/>
+                <TextBox x:Name="imagBox" Grid.Column="3" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" Height="auto" Margin="5,5.3,5,4.4" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="auto" GotFocus="imagBox_GotFocus" KeyboardNavigation.TabIndex="1" KeyDown="myKeyDown_KeyDown"/>
+                <Button x:Name="button1" Content="1" Margin="2,1.6,2,2.4" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" Grid.ColumnSpan="2" KeyDown="myKeyDown_KeyDown" />
+                <Button x:Name="button2" Content="2" Margin="2,1.6,2,2.4" Grid.Column="2" Grid.Row="4" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" />
+                <Button x:Name="button3" Content="3" Margin="2,1.6,2,2.4" Grid.Column="3" Grid.Row="4" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" />
+                <Button x:Name="button4" Content="4" Margin="2,1.6,2,2.4" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" Grid.ColumnSpan="2" />
+                <Button x:Name="button5" Content="5" Margin="2,1.6,2,2.4" Grid.Column="2" Grid.Row="5" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" />
+                <Button x:Name="button6" Content="6" Margin="2,1.6,2,2.4" Grid.Column="3" Grid.Row="5" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" />
+                <Button x:Name="button7" Content="7" Margin="2,1.6,2,2.4" Grid.Column="0" Grid.Row="6" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" Grid.ColumnSpan="2" />
+                <Button x:Name="button8" Content="8" Margin="2,1.6,2,2.4" Grid.Column="2" Grid.Row="6" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" />
+                <Button x:Name="button9" Content="9" Margin="2,1.6,2,2.4" Grid.Column="3" Grid.Row="6" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" />
+                <Button x:Name="addButton" Content="+" Margin="2,1.6,2,2.4" Grid.Column="0" Grid.Row="7" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="arithmeticButton_Click" IsTabStop="False" Grid.ColumnSpan="2" />
+                <Button x:Name="subButton" Content="-" Margin="2,1.6,2,2.4" Grid.Column="2" Grid.Row="7" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="arithmeticButton_Click" IsTabStop="False" />
+                <Button x:Name="multiButton" Content="*" Margin="2,1.6,2,2.4" Grid.Column="3" Grid.Row="7" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="arithmeticButton_Click" IsTabStop="False" />
+                <Button x:Name="divButton" Content="/" Margin="2,1.6,2,2.4" Grid.Column="0" Grid.Row="8" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="arithmeticButton_Click" IsTabStop="False" Grid.ColumnSpan="2" />
+                <Button x:Name="clearButton" Content="CE" Margin="2,1.6,2,2.4" Grid.Column="2" Grid.Row="8" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="clearButton_Click" IsTabStop="False" />
+                <Button x:Name="restartButton" Content="c" Margin="2,1.6,2,2.4" Grid.Column="3" Grid.Row="8" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="restartButton_Click" IsTabStop="False" />
+                <Button x:Name="button15" Content="=" Grid.ColumnSpan="2" Margin="2,1.6,2,2.4" Grid.Column="2" Grid.Row="9" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="equalButton_Click" IsTabStop="False" />
+                <Button Content="0" Margin="2,1.6,2,2.4" Grid.Column="0" Grid.Row="9" HorizontalAlignment="Stretch" Height=" auto" Width="auto" Click="number_Click" IsTabStop="False" Grid.ColumnSpan="2" />
+            </Grid>
+        </GroupBox>
+        <StackPanel Grid.Row="1" Grid.Column="2" HorizontalAlignment="Stretch" Height="auto" Margin="30" VerticalAlignment="Stretch" Width="auto">
+            <ComboBox x:Name="modeBox" SelectionChanged="modeBox_SelectionChanged" IsTabStop="False">
+                <ComboBoxItem Content="Rectangular"/>
+                <ComboBoxItem Content="Polar"/>
+            </ComboBox>
+            <ListBox x:Name="memoryBox" Height="100" SelectionChanged="memoryBox_SelectionChanged"/>
+            <Label Content="Memory Controls" HorizontalAlignment="Stretch"/>
+            <Button x:Name="memoryButton" Content="M+" Click="memoryButton_Click"/>
+            <Button x:Name="removeMemoryButton" Content="M-" Click="removeMemoryButton_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

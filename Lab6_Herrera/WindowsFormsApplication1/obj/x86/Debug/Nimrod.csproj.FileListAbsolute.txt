@@ -1,0 +1,9 @@
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\Nimrod.csprojResolveAssemblyReference.cache
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\NimForm.Form1.resources
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\NimForm.Properties.Resources.resources
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\NimForm.TurnForm.resources
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\Nimrod.csproj.GenerateResource.Cache
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Willy\Desktop\Lab6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
